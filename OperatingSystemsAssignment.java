@@ -1,4 +1,4 @@
-class Oskaproject
+class Osproject
 {
   public static void main(String[] args)
   {
